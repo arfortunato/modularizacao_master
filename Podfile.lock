@@ -1,0 +1,29 @@
+PODS:
+  - catDog (1.1.8)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - catDog (from `https://github.com/arfortunato/catDog.git`, branch `master`)
+  - SnapKit (= 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  catDog:
+    :branch: master
+    :git: https://github.com/arfortunato/catDog.git
+
+CHECKOUT OPTIONS:
+  catDog:
+    :commit: cec4d815a4a419e31832b02fd99e83fa3837ee12
+    :git: https://github.com/arfortunato/catDog.git
+
+SPEC CHECKSUMS:
+  catDog: 6729235ceb5acb4f5ec577df28c054e153f515b5
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 699cfcb7433a5f68339bf2b7b9d36dfaaf8d0101
+
+COCOAPODS: 1.10.1
